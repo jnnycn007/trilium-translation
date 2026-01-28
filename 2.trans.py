@@ -439,11 +439,11 @@ else:
 print(f'switch to dir: {BASE_PATH}')
 os.chdir(BASE_PATH)
 
-if os.path.exists('/usr/share/nvm/init-nvm.sh'):
+if os.path.exists('~/.config/nvm/init-nvm.sh'):
     print('nvm managed environment')
     os.system('which node')
-    os.system('source /usr/share/nvm/init-nvm.sh && proxychains npm install')
-    os.system('source /usr/share/nvm/init-nvm.sh && which npm && proxychains npm run webpack')
+    os.system('source ~/.config/nvm/init-nvm.sh && proxychains npm install')
+    os.system('source ~/.config/nvm/init-nvm.sh && which npm && proxychains npm run webpack')
 else:
     os.system('which webpack')
     os.system('npm install')
