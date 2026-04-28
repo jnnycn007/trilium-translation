@@ -19,6 +19,10 @@
 
 如果你觉得不错, 可以留下一个star, 谢谢 ^_^
 
+> **📱 安卓用户推荐**：  
+> 如果你在手机或平板上使用 Trilium，强烈推荐使用我开发的 **Pocket Trilium** —— 专为移动端优化的 Trilium 安卓客户端。  
+> 👉 **[https://github.com/nriver/pocket-trilium](https://github.com/nriver/pocket-trilium)**
+
 如果你是老用户, 使用前最好备份数据以防万一.
 
 qq群满了请优先加TG群

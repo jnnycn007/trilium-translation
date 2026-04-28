@@ -16,6 +16,12 @@ This repository will now focus on developing a modified version of Trilium.
 
 Star this repo if you like it, thx :)
 
+> **📱 Recommendation for Android Users**:
+> 
+> If you use Trilium on your phone or tablet, I strongly recommend trying **Pocket Trilium** — an Android client I developed specifically optimized for mobile devices.
+> 
+> 👉 **[https://github.com/nriver/pocket-trilium](https://github.com/nriver/pocket-trilium)**
+
 If you have old data, PLEASE BACK UP YOUR DATA BEFORE USE.
 
 # 🦮 Table of Contents
