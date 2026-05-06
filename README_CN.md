@@ -27,9 +27,9 @@
 
 qq群满了请优先加TG群
 
-Trilium Notes 学习交流 TG群 https://t.me/trilium_cn
+Trilium Notes 学习交流 TG群 https://t.me/+C0acfqqI3-I5MTU1
 
-![tg](https://user-images.githubusercontent.com/6752679/224602865-44bf8e9c-f31b-4d4c-b22c-2fdf349e8d5e.png)
+<img width="150" height="150" alt="无标题" src="https://github.com/user-attachments/assets/2878e015-3d25-4dcd-9334-7381be791193" />
 
 Trilium Notes 交流qq群
 
